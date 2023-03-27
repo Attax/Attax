@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Attax
-- I'm a frontend developer and PHP developer and indiehacker
+- I'm a frontend developer,node.js developer and PHP developer
+- I'm aslo an indiehacker
 - 👀 I’m interested in program and lurefishing,
 - 🌱 I’m currently learning Android/Flutter development
 - 💞️ I’m looking to collaborate on ...
